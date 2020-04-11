@@ -1,7 +1,7 @@
-<?php namespace SoapBox\Formatter;
+<?php namespace Thibaultvanc\Formatter;
 
 use Illuminate\Support\ServiceProvider;
-use SoapBox\Formatter\Formatter as Formatter;
+use Thibaultvanc\Formatter\Formatter as Formatter;
 
 /**
  * Used to register Authroize with service providers, mainly for Laravel.
@@ -22,7 +22,7 @@ class FormatterServiceProvider extends ServiceProvider
      */
     public function boot()
     {
-        $this->package('soapbox/laravel-formatter');
+        $this->package('Thibaultvanc/laravel-formatter');
     }
 
     /**

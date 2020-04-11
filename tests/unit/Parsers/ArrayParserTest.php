@@ -1,8 +1,8 @@
-<?php namespace SoapBox\Formatter\Test\Parsers;
+<?php namespace Thibaultvanc\Formatter\Test\Parsers;
 
-use SoapBox\Formatter\Parsers\ArrayParser;
-use SoapBox\Formatter\Parsers\Parser;
-use SoapBox\Formatter\Test\TestCase;
+use Thibaultvanc\Formatter\Parsers\ArrayParser;
+use Thibaultvanc\Formatter\Parsers\Parser;
+use Thibaultvanc\Formatter\Test\TestCase;
 use stdClass;
 
 class ArrayParserTest extends TestCase

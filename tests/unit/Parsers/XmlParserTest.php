@@ -1,8 +1,8 @@
-<?php namespace SoapBox\Formatter\Test\Parsers;
+<?php namespace Thibaultvanc\Formatter\Test\Parsers;
 
-use SoapBox\Formatter\Parsers\Parser;
-use SoapBox\Formatter\Parsers\XmlParser;
-use SoapBox\Formatter\Test\TestCase;
+use Thibaultvanc\Formatter\Parsers\Parser;
+use Thibaultvanc\Formatter\Parsers\XmlParser;
+use Thibaultvanc\Formatter\Test\TestCase;
 
 class XmlParserTest extends TestCase
 {

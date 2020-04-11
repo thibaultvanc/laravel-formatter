@@ -1,4 +1,4 @@
-<?php namespace SoapBox\Formatter\Parsers;
+<?php namespace Thibaultvanc\Formatter\Parsers;
 
 class XmlParser extends Parser
 {
@@ -6,7 +6,7 @@ class XmlParser extends Parser
 
     /**
      * Ported from laravel-formatter
-     * https://github.com/SoapBox/laravel-formatter
+     * https://github.com/Thibaultvanc/laravel-formatter
      *
      * @author  Daniel Berry <daniel@danielberry.me>
      * @license MIT License (see LICENSE.readme included in the bundle)

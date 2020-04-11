@@ -1,6 +1,6 @@
-<?php namespace SoapBox\Formatter\Test;
+<?php namespace Thibaultvanc\Formatter\Test;
 
-use SoapBox\Formatter\Formatter;
+use Thibaultvanc\Formatter\Formatter;
 
 class FormatterTest extends TestCase
 {

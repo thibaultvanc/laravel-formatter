@@ -1,12 +1,12 @@
-<?php namespace SoapBox\Formatter;
+<?php namespace Thibaultvanc\Formatter;
 
 use InvalidArgumentException;
-use SoapBox\Formatter\Formatter as Formatter;
-use SoapBox\Formatter\Parsers\ArrayParser;
-use SoapBox\Formatter\Parsers\CsvParser;
-use SoapBox\Formatter\Parsers\JsonParser;
-use SoapBox\Formatter\Parsers\XmlParser;
-use SoapBox\Formatter\Parsers\YamlParser;
+use Thibaultvanc\Formatter\Formatter as Formatter;
+use Thibaultvanc\Formatter\Parsers\ArrayParser;
+use Thibaultvanc\Formatter\Parsers\CsvParser;
+use Thibaultvanc\Formatter\Parsers\JsonParser;
+use Thibaultvanc\Formatter\Parsers\XmlParser;
+use Thibaultvanc\Formatter\Parsers\YamlParser;
 
 class Formatter
 {

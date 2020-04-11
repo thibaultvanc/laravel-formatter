@@ -1,4 +1,4 @@
-<?php namespace SoapBox\Formatter\Test;
+<?php namespace Thibaultvanc\Formatter\Test;
 
 abstract class TestCase extends \PHPUnit\Framework\TestCase
 {
